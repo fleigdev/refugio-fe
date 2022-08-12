@@ -1,0 +1,21 @@
+
+.wave-opacity .shape-fill {
+  fill: #f94e30;
+}
+
+.spacer {
+  aspect-ratio: 960/300;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.layer1 {
+  background-image: url('/assets/waves.svg');
+}
+
+.adopt__text {
+  font-size: 18px;
+  padding-top: 20px;
+}

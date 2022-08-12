@@ -1,0 +1,24 @@
+@import "./colors.scss";
+
+// Layouts
+@import "../layouts/BasicLayout.scss";
+
+// Components
+@import "../components/Header/Header.scss";
+@import "../components/Footer/Footer.scss";
+@import "../components/Header/NavBar/NavBar.scss";
+@import "../components/About/About.scss";
+@import "../components/Adopt/AdoptCards/AdoptCards.scss";
+@import "../components/Adopt/AdoptCard/AdoptCard.scss";
+@import "../components/Adopt/AdoptSection/AdoptSection.scss";
+@import "../components/Blog/BlogSection/BlogSection.scss";
+@import "../components/Blog/BlogCard/BlogCard.scss";
+@import "../components/Blog/BlogCards/BlogCards.scss";
+@import "../components/Contact/ContactSection/ContactSection.scss";
+
+
+// Pages
+@import "../pages/index.scss";
+@import "../pages/dog.scss";
+@import "../pages/single-blog.scss";
+@import "../pages/contact.scss";

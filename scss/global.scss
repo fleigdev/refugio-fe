@@ -1,0 +1,50 @@
+@import "./index.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+section {
+  position: relative;
+  width: 100%;
+  padding: 100px;
+
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+}
+
+
+
+.titleText {
+  color: #2e2e2e;
+  font-size: 2em;
+  font-weight: 300;
+  align-items: center;
+
+}
+
+.titleText span {
+  color: #f94e30;
+  font-weight: 700;
+  font-size: 1.5em;
+  }
+
+.centered {
+  text-align: center;  
+  padding: 20px;
+}
+  
+
+@media (max-width: 991px) {
+
+  section {
+    padding: 100px 20px;
+  }
+
+}
+
+

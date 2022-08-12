@@ -1,0 +1,21 @@
+.main-blog-pic {
+  max-width: 400px;
+  width: clamp(20rem, calc(20rem + 2vw), 22rem);
+  overflow: hidden;
+  background: #ECE9E6;background: linear-gradient(to right, #f2ebeb, #f0e4e4);
+border-radius: 30px 30px 30px 30px;
+box-shadow: 5px 10px #414141;
+}
+
+.blog-text {
+  padding: 30px;
+}
+
+.blog-pic {
+  max-width: 500px;
+
+  overflow: hidden;
+  background: #ECE9E6;background: linear-gradient(to right, #f2ebeb, #f0e4e4);
+border-radius: 30px 30px 30px 30px;
+box-shadow: 5px 10px #414141;
+}
